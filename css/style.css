@@ -1,0 +1,52 @@
+h2 {
+	font -size: 50px;
+	color: green;
+}
+	.heading {
+	font-size: 20px;
+	font-weight:  normal;
+	background-color: blue;
+}
+	#block {
+
+	width: 300px;
+	height: 300px;
+	background -color: blue:
+	color:red;
+}
+*{
+	margin: 0;
+	padding: 0;
+}
+section{
+	width: 100%; /*px/%/vw*/
+	height: 100vh; /*px/%/vh*/
+	background-color: lightgreen;
+}
+section#header {
+	width: 100%; /*px/%/vw*/
+	height: 100vh; /*px/%/vh*/
+	background-color: lightgreen;
+	line-height: 100vh
+	background-image:url('http://hronika.info/uploads/posts/2016-01/1452736497_yumor12.jpg');
+	background-size: cover; 
+	background-repeat: no-repeat;
+	background-position: center; /*top,left,right,bottom*/
+	background-attachment: fixed;
+
+}
+
+#header h1 {
+
+	font: 15px/30px'Arial' 
+	font-size: 75px; /*px/em/rem/%/vh*/
+	font-weight: normal; /*normal/bold/semi-bold*/
+	font-family: 'Arial', serif;
+	font-variant: small-caps; /*все заглавные*/
+	font-style: italic;/*под наклоном шрифт*/
+	color: red
+	text-align:center; /*выравнивает текст*/
+	text-decoration: overline; underline; line-throw /*подчеркивание текста*/
+	text-transform: uppercase;/*заглавный шрифт*/
+	text-indent: 100px; /*размер абзаца*/
+}
